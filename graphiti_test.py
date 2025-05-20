@@ -57,7 +57,7 @@ async def main():
         payload = {
                 "SearchType": 0.0,
                 "Query": "",
-                "Filter": f"document_id = '99bee373-04d4-40a6-aa45-b039f3ddcbe6'",
+                "Filter": f"document_id = '947963ea-7e8c-411c-bc42-da70642e1b69'",
                 "Offset": 0,
                 "Limit": 99
         }
